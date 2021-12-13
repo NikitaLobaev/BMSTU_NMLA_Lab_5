@@ -1,4 +1,4 @@
-#include "Matrix.cpp"
+#include "Matrix.h"
 
 namespace Lobaev::Math {
 

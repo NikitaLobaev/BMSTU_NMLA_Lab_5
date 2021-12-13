@@ -4,3 +4,6 @@
 [submodule "googletest"]
 	path = googletest
 	url = https://github.com/google/googletest
+[submodule "BMSTU_NMLA_Lab_2"]
+	path = BMSTU_NMLA_Lab_2
+	url = https://github.com/NikitaLobaev/BMSTU_NMLA_Lab_2

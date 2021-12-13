@@ -7,6 +7,7 @@ add_subdirectory(googletest)
 include_directories(${gtest_SOURCE_DIR}/include ${gtest_SOURCE_DIR})
 
 include_directories(BMSTU_NMLA_Lab_1)
+include_directories(BMSTU_NMLA_Lab_2)
 
 add_executable(main.cpp main.cpp)
 
